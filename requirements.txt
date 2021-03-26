@@ -1,0 +1,7 @@
+arrow==1.0.3
+colorama==0.4.4
+colorful==0.5.4
+psutil==5.8.0
+python-dateutil==2.8.1
+six==1.15.0
+windows-curses==2.2.0
